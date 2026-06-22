@@ -15,4 +15,4 @@ A secure web-based application that allows users to upload, store, and share fil
 - CSS
 - JavaScript
 - Python Flask / Node.js / Java
-- MongoDB / MySQL
+- MongoDB /  MySQL
